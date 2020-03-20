@@ -1,6 +1,6 @@
 # vim-autocorrect
 
-Vim autocorrections as I type that suit me
+Vim auto corrections as I type that suit me
 
 ## Languages
-Can be broken out by languages by udpated files in `ftplugins`
+Can be broken out by languages by updating files in `ftplugins`
